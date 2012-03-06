@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution Dist-Zilla-Plugin-Git-GatherDir,
+version 0.0.1_001:
+
+  uses git ls-files to decide what to gather for the build
+
+This software is copyright (c) 2012 by Akamai Technologies.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
