@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Dist-Zilla-Plugin-Git-GatherDir,
-version 0.0.1_001:
+version 0.003:
 
   uses git ls-files to decide what to gather for the build
 

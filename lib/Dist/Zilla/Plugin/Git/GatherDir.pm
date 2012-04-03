@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Dist::Zilla::Plugin::Git::GatherDir;
 {
-  $Dist::Zilla::Plugin::Git::GatherDir::VERSION = '0.0.1_001';
+  $Dist::Zilla::Plugin::Git::GatherDir::VERSION = '0.003';
 }
 {
   $Dist::Zilla::Plugin::Git::GatherDir::DIST = 'Dist-Zilla-Plugin-Git-GatherDir';
@@ -78,7 +78,7 @@ Dist::Zilla::Plugin::Git::GatherDir - uses git ls-files to decide what to gather
 
 =head1 VERSION
 
-version 0.0.1_001
+version 0.003
 
 =head1 AUTHOR
 

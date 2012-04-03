@@ -1,0 +1,63 @@
+==================================================
+Changes from 2011-04-04 00:00:00 +0000 to present.
+==================================================
+
+------------------------------------------
+version 0.003 at 2012-04-03 19:52:07 +0000
+------------------------------------------
+
+  Change: fdf22107be4913d898fdd832fd22642a53212a07
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-04-03 15:51:55 +0000
+
+    stupid sscaffidi 
+
+  Change: fc965e9687be2c8e465b3346c8bca1cbcbdf9f63
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-04-03 15:50:50 +0000
+
+    stupid dzil 
+
+------------------------------------------
+version 0.002 at 2012-04-03 19:47:50 +0000
+------------------------------------------
+
+  Change: fdcdaa728aceb7b8e226552f433f9b216bbb3ada
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-04-03 15:47:50 +0000
+
+    cleanup on aisle six 
+
+  Change: 1df624eb9bd6fcb537fb8378d5dbc763e8a68a89
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-03-06 12:43:44 +0000
+
+    updated gitignore to ignore dist builds 
+
+  Change: ce240ae038dd6432caae9f1756da9aa06e8aa213
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-03-06 12:41:53 +0000
+
+    ready for first dev release! 
+
+  Change: 121d1d8f9ca45a06eef010ac586b12eda18a1b2b
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-03-06 12:09:27 +0000
+
+    added README.mkdn (auto-generated) to make github happy 
+
+  Change: 75e82c123d58d4941a305275b17acf55b14f90d7
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-03-06 12:08:07 +0000
+
+    support for github in dist.ini 
+
+  Change: 5930506622c9a355d1a465e5fde3b48d4fcb43fd
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-03-06 12:04:29 +0000
+
+    initial commit 
+
+================
+End of releases.
+================

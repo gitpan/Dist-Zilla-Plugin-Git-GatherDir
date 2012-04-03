@@ -21,7 +21,7 @@ my %module_build_args = (
     "Stephen R. Scaffidi <sscaffid\@akamai.com>"
   ],
   "dist_name" => "Dist-Zilla-Plugin-Git-GatherDir",
-  "dist_version" => "0.0.1_001",
+  "dist_version" => "0.003",
   "license" => "perl",
   "module_name" => "Dist::Zilla::Plugin::Git::GatherDir",
   "recommends" => {},
